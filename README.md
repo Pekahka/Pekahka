@@ -3,7 +3,7 @@
 
 ## I'm a Developer!!
 
-- 🌱 I’m currently learning web technologies 🤣
+- 🌱 I’m currently studying web technologies 🤣
 - 👯 I’m looking to collaborate with other web developers
 - ⚡ Fun fact: I love to play tennis and MTG
 
